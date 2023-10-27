@@ -1,6 +1,6 @@
 # Pengantar Game Kelas E
-RevengeOfKnight_Unity.rar = Source Code
-RevengeOfKnight.apk = File APK
+- RevengeOfKnight_Unity.rar = Source Code
+- RevengeOfKnight.apk = File APK
 
 
 # Anggota Kelompok : 
@@ -10,9 +10,9 @@ RevengeOfKnight.apk = File APK
 
 
 # Kontrol :
-Keyboard D                :           Player akan bergerak ke Kanan
-Keyboard A                :           Player akan bergerak ke Kiri
-Keyboard Space          :           Player akan bergerak ke Atas / Melompat
-Left Click Mouse        :           Player akan Menyerang / Hit
+- Tombol Kiri     :  Untuk Bergerak Ke Kiri
+- Tombol Kanan    :  Untuk Bergerak Ke Kanan
+- Tombol Lompat   :  Untuk Melompat
+- Tombol Serang   :  Untuk Menyerang
 
 
