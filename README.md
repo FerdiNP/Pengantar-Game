@@ -1,4 +1,4 @@
-# Pengantar Game Kelas E
+# Pengantar Game Kelas I
 - RevengeOfKnight_Unity.rar = Source Code
 - RevengeOfKnight.apk = File APK
 
